@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m Vikas Chamyal – a passionate MERN Stack Developer building modern, scalable web applications.<br> Let’s connect:<br> I love learning new technologies, solving complex problems, and turning ideas into fully functional web applications.<br><br>LinkedIn: https://www.linkedin.com/vikas-chamyal24
+I’m Vikas Chamyal — MERN Stack Developer.
+
+I build scalable, production-ready web applications.
+Clean architecture. Strong logic. Zero fluff.
+
+I enjoy breaking complex problems into elegant solutions
+and turning ideas into systems that actually ship.<br><br>LinkedIn: https://www.linkedin.com/vikas-chamyal24
 
 
 ## 🌐 Socials:
