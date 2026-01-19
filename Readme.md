@@ -9,11 +9,11 @@
   </p>
   <p align="center">
   <a href="https://portfolio-lac-six-83.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Vikas%20Chamyal-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vikas-chamyal24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Chamyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
