@@ -1,6 +1,8 @@
 <h1 align="center">Vikas Chamyal</h1>
 
-<p align="center"><b>I care about how systems behave under real conditions. </b></p>
+<p align="center" style="font-size:16px; color:#9CA3AF; font-weight:600; letter-spacing:0.3px;">
+  I care about how systems behave under real conditions.
+</p>
 
 <p align="center">
   MERN Stack Developer • React • Node • Real-Time Systems
