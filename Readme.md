@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  MERN Stack Developer • React • Node • Real-Time Systems
+  Frontend-First MERN Developer • React • Production UI Systems
 </p>
 
 <p align="center">
@@ -25,16 +25,13 @@
   <b>Outcome-driven engineering. Clean systems.</b>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasChamyal&show_icons=true&theme=dark&hide_border=true)
 
 
 
 
 ## Selected Projects >>
 
-### **[Flowline — Real-Time Messaging Platform](https://flowlinemessanger.netlify.app/)** _(Flagship)_
+### **[Flowline — Real-Time Communication & Content Platform](https://flowlinemessanger.netlify.app/)** _(Flagship)_
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS  
 
@@ -89,6 +86,10 @@ commerce workflows.
 
 ## 📊 Activity & Consistency
 
+![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasChamyal&layout=compact&theme=dark&hide_border=true)
+
+
 
 ---
