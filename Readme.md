@@ -3,6 +3,7 @@
 <p align="center">
   MERN Stack Developer | React • Redux • Node • MongoDB  
 </p>
+LinkedIn → https://www.linkedin.com/in/vikas-chamyal24
 
 <p align="center">
   I build interactive, production-ready web apps  
@@ -41,7 +42,7 @@
 - Clean architecture  
 - Interview-level React patterns  
 
-🔗 Repo → https://github.com/YOUR_USERNAME/skill-tracker-app
+🔗 Repo → https://github.com/VikasChamyal/skill-tracker-app
 
 ---
 
@@ -56,7 +57,7 @@
 - Game logic (win/lose/reset)
 - Real interactivity
 
-🔗 Repo → https://github.com/YOUR_USERNAME/react-mini-game
+🔗 Repo → https://github.com/VikasChamyal/react-mini-game
 
 ---
 
