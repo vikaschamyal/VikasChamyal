@@ -27,9 +27,9 @@
 
 ---
 
-##  Selected Projects >> 
+## Selected Projects >>
 
-### **Flowline — Real-Time Messaging Platform** _(Flagship)_
+### **[Flowline — Real-Time Messaging Platform](https://flowlinemessanger.netlify.app/)** _(Flagship)_
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS  
 
@@ -46,7 +46,7 @@ and real-time communication, built in a **team-based, product-oriented environme
 
 ---
 
-### **Ledgerly — Financial Activity & Insights Dashboard**
+### **[Ledgerly — Financial Activity & Insights Dashboard](https://expense-tracke-rosy.vercel.app/)**
 
 **Tech:** React.js, Context API, useReducer, Tailwind CSS, Bootstrap  
 
@@ -63,7 +63,7 @@ categorized insights and real-time summaries.
 
 ---
 
-### **CommerceX — Scalable E-Commerce Platform**
+### **[CommerceX — Scalable E-Commerce Platform](https://ecommerce-b1hw.vercel.app/)**
 
 **Tech:** React.js, Redux Toolkit, RTK Query, Tailwind CSS, Axios, Node.js, Express.js  
 
@@ -80,6 +80,7 @@ commerce workflows.
 🔗 **Project Link:** https://ecommerce-b1hw.vercel.app/
 
 ---
+
 
 ## 📊 Activity & Consistency
 
