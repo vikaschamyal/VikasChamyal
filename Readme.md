@@ -1,5 +1,6 @@
 <h1 align="center">Vikas Chamyal</h1>
-<p align="center">I don’t experiment in production.</p>
+
+<p align="center"><b>I don’t experiment in production.</b></p>
 
 <p align="center">
   MERN Stack Developer • React • Node • Real-Time Systems
@@ -15,7 +16,6 @@
   </a>
 </p>
 
-
 <p align="center">
   I design and build <b>production-style web applications</b> with secure authentication,
   real-time interaction, and clean scalable architecture.
@@ -25,40 +25,73 @@
 
 ---
 
-##  Activity & Consistency
+## 🚀 Selected Projects (Start Here)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasChamyal&layout=compact&theme=dark&hide_border=true)
-
----
-
-##  Flagship Project
-
-### **Flowline **
+### **Flowline — Real-Time Messaging Platform** _(Flagship)_
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS  
 
-Designed and developed a **production-style social messaging platform** with real-time
-communication and structured content workflows, built in a **team-based,
-product-oriented environment**.
+Designed and developed a **production-style social messaging platform** with authentication
+and real-time communication, built in a **team-based, product-oriented environment**.
 
 **Key Contributions**
-- Secure authentication & authorization using JWT, password hashing, protected routes
-- Real-time messaging with Socket.IO (rooms, lifecycle handling, delivery states)
-- Live notifications with consistent UI state synchronization
-- Responsive layouts, loading skeletons, and fallback states inspired by modern chat apps
+- Implemented secure authentication & authorization using JWT, password hashing, and protected routes
+- Integrated Socket.IO for real-time messaging, room-based communication, and live notifications
+- Managed connection lifecycle, message delivery states, and consistent UI state synchronization
+- Enhanced UX with responsive layouts, loading skeletons, and fallback states inspired by modern chat apps
 
 🔗 **Live Demo:** https://flowlinemessanger.netlify.app/
 
 ---
 
-##  Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Real-Time:** Socket.IO  
-- **Auth:** JWT  
+### **Ledgerly — Financial Activity & Insights Dashboard**
+
+**Tech:** React.js, Context API, useReducer, Tailwind CSS, Bootstrap  
+
+Architected a **personal finance dashboard** to track income, expenses, and balances with
+categorized insights and real-time summaries.
+
+**Key Contributions**
+- Took ownership of frontend architecture and state management as features scaled
+- Implemented a Redux-like global state system using Context API and `useReducer`
+- Designed reusable, modular UI components for transactions, filters, analytics, and charts
+- Ensured predictable state transitions and scalable data flow across components
+
+🔗 **Project Link:** (add when ready)
+
+---
+
+### **CommerceX — Scalable E-Commerce Platform**
+
+**Tech:** React.js, Redux Toolkit, RTK Query, Tailwind CSS, Axios, Node.js, Express.js  
+
+Built a **production-grade, component-driven e-commerce frontend** supporting real-world
+commerce workflows.
+
+**Key Contributions**
+- Architected scalable UI systems for product discovery, advanced filtering, cart, and checkout-ready flows
+- Implemented centralized state management with Redux Toolkit and RTK Query
+- Handled async server data with caching, request deduplication, and predictable updates
+- Applied performance optimizations (lazy loading, memoization) for data-heavy views
+- Built responsive, mobile-first layouts with Tailwind CSS
+
+🔗 **Project Link:** (add when ready)
+
+---
+
+## 📊 Activity & Consistency
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasChamyal&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React.js, Redux Toolkit, Context API, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Real-Time:** Socket.IO
+- **Auth:** JWT
 
 ---
 
