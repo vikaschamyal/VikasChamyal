@@ -1,6 +1,6 @@
 <h1 align="center">Vikas Chamyal</h1>
 
-<p align="center"><b>I don’t experiment in production.</b></p>
+<p align="center"><b>I care about how systems behave under real conditions. </b></p>
 
 <p align="center">
   MERN Stack Developer • React • Node • Real-Time Systems
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Selected Projects (Start Here)
+##  Selected Projects >> 
 
 ### **Flowline — Real-Time Messaging Platform** _(Flagship)_
 
@@ -57,7 +57,7 @@ categorized insights and real-time summaries.
 - Designed reusable, modular UI components for transactions, filters, analytics, and charts
 - Ensured predictable state transitions and scalable data flow across components
 
-🔗 **Project Link:** (add when ready)
+🔗 **Project Link:** https://expense-tracke-rosy.vercel.app/
 
 ---
 
@@ -75,7 +75,7 @@ commerce workflows.
 - Applied performance optimizations (lazy loading, memoization) for data-heavy views
 - Built responsive, mobile-first layouts with Tailwind CSS
 
-🔗 **Project Link:** (add when ready)
+🔗 **Project Link:** https://ecommerce-b1hw.vercel.app/
 
 ---
 
