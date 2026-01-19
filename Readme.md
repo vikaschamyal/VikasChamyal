@@ -24,6 +24,8 @@
   <br/>
   <b>Outcome-driven engineering. Clean systems.</b>
 </p>
+------
+![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
 
 ---
 
@@ -84,22 +86,6 @@ commerce workflows.
 
 ## 📊 Activity & Consistency
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasChamyal&layout=compact&theme=dark&hide_border=true)
 
 ---
-
-## 🛠 Tech Stack
-- **Frontend:** React.js, Redux Toolkit, Context API, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Real-Time:** Socket.IO
-- **Auth:** JWT
-
----
-
-## 🫡 Focus Areas
-- Real-time systems & state synchronization  
-- Scalable frontend architecture  
-- Secure authentication flows  
-- Performance & UX polish  
