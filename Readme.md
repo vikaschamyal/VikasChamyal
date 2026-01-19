@@ -4,10 +4,20 @@
   <h1 style="font-size: 38px; margin-bottom: 6px;">
      Vikas Chamyal
   </h1>
-
   <p style="color: #9CA3AF; margin-top: 0; font-size: 16px;">
     MERN Stack Developer • React • Node • Real-Time Systems
   </p>
+  <p align="center">
+  <a href="https://portfolio-lac-six-83.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Vikas%20Chamyal-111827?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vikas-chamyal24" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Chamyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+  
 
   <p style="max-width: 720px; margin: 16px auto; line-height: 1.6;">
     I design and build <b>production-style web applications</b> with strong architecture,
@@ -17,25 +27,8 @@
   </p>
 
   <!-- TOP CTA BUTTONS -->
-  <div style="margin-top: 16px;">
-    <a href="https://portfolio-lac-six-83.vercel.app/" target="_blank"
-       style="display:inline-block; padding:12px 22px; margin-right:10px;
-       background:#111827; color:#ffffff; text-decoration:none;
-       border-radius:6px; font-weight:600;"
-       onmouseover="this.style.background='#1F2937'"
-       onmouseout="this.style.background='#111827'">
-      View Portfolio
-    </a>
+  
 
-    <a href="https://www.linkedin.com/in/vikas-chamyal24" target="_blank"
-       style="display:inline-block; padding:12px 22px;
-       background:#0A66C2; color:#ffffff; text-decoration:none;
-       border-radius:6px; font-weight:600;"
-       onmouseover="this.style.background='#084C91'"
-       onmouseout="this.style.background='#0A66C2'">
-      LinkedIn
-    </a>
-  </div>
 
   <br /><br />
 
