@@ -7,13 +7,14 @@
 
 <p align="center">
   <a href="https://portfolio-lac-six-83.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Work-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vikas-chamyal24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   I design and build <b>production-style web applications</b> with secure authentication,
