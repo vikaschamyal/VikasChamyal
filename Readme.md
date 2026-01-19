@@ -37,15 +37,10 @@
     📊 Activity & Consistency
   </h2>
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=VikasChamyal&theme=dark&hide_border=true"
-    style="width:100%; max-width:760px; margin-top:14px;"
-  />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasChamyal&theme=dark&hide_border=true" width="760" />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VikasChamyal&show_icons=true&theme=dark&hide_border=true"
-    style="width:100%; max-width:760px; margin-top:12px;"
-  />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasChamyal&layout=compact&theme=dark&hide_border=true"
