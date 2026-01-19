@@ -23,10 +23,6 @@
 ##  Live Activity & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasChamyal&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VikasChamyal&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
