@@ -27,6 +27,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasChamyal&show_icons=true&theme=dark&hide_border=true)
+
+
 
 
 ## Selected Projects >>
