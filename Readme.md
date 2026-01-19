@@ -24,10 +24,10 @@
   <br/>
   <b>Outcome-driven engineering. Clean systems.</b>
 </p>
-------
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=VikasChamyal&theme=dark&hide_border=true)
 
----
+
 
 ## Selected Projects >>
 
