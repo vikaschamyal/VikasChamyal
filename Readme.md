@@ -3,7 +3,14 @@
 <p align="center">
   MERN Stack Developer | React • Redux • Node • MongoDB  
 </p>
-LinkedIn → https://www.linkedin.com/in/vikas-chamyal24
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-chamyal24" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" 
+      alt="LinkedIn Profile"
+    />
+  </a>
+</p>
 
 <p align="center">
   I build interactive, production-ready web apps  
